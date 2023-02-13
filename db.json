@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "Powerful quake leaves thousands dead in Turkey and Syria",
+      "imageUrl": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/c782dda8-1682-4bf7-9247-028f9621bc49.jpg",
+      "content": "At least 5,034 deaths have now been confirmed in Turkey and Syria after a powerful magnitude 7.8 earthquake rocked the region early on Monday.",
+      "section": "world news",
+      "audioUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Powerful quake leaves thousands dead in Turkey and Syria",
+      "imageUrl": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/c782dda8-1682-4bf7-9247-028f9621bc49.jpg",
+      "content": "At least 5,034 deaths have now been confirmed in Turkey and Syria after a powerful magnitude 7.8 earthquake rocked the region early on Monday.",
+      "section": "world news",
+      "audioUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "Powerful quake leaves thousands dead in Turkey and Syria",
+      "imageUrl": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/c782dda8-1682-4bf7-9247-028f9621bc49.jpg",
+      "content": "At least 5,034 deaths have now been confirmed in Turkey and Syria after a powerful magnitude 7.8 earthquake rocked the region early on Monday.",
+      "section": "world news",
+      "audioUrl": ""
+    },
+    {
+      "title": "dsa12123567",
+      "imageUrl": "https://stackoverflow.com/questions/70300864/how-to-use-usequery-with-useeffect",
+      "content": "dad",
+      "section": "đáa",
+      "audioUrl": "https://codestus.com/posts/su-dung-react-query-de-fetch-du-lieu",
+      "id": 2
+    },
+    {
+      "title": "",
+      "imageUrl": "",
+      "content": "",
+      "section": "",
+      "audioUrl": "",
+      "id": 3
+    }
+  ]
+}
